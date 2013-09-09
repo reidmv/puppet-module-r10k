@@ -10,7 +10,5 @@ project_page 'https://github.com/acidprime/r10k'
 ## Add dependencies, if any:
 dependency 'puppetlabs/stdlib',  '>= 4.1.0'
 dependency 'puppetlabs/ruby',    '>= 0.0.2'
-dependency 'puppetlabs/gcc',     '>= 0.0.3'
 dependency 'puppetlabs/pe_gem',  '>= 0.0.1'
-dependency 'mhuffnagle/make',    '>= 0.0.1'
 dependency 'puppetlabs/inifile', '>= 1.0.0'
